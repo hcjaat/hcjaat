@@ -49,19 +49,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hcjaat&show_icons=true&theme=vue&bg_color=ffffff&title_color=4A7C59&icon_color=4A7C59&text_color=333333&hide_border=true" alt="GitHub Stats" width="420" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hcjaat&theme=vue&background=ffffff&ring=4A7C59&fire=4A7C59&currStreakNum=333333&sideNums=333333&currStreakLabel=4A7C59&sideLabels=4A7C59&dates=666666&hide_border=true" alt="Streak Stats" width="400" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcjaat&layout=compact&theme=vue&bg_color=ffffff&title_color=4A7C59&text_color=333333&hide_border=true" alt="Top Languages" width="400" />
-</div>
-
-<br/>
-
 ## 📌 Featured Projects
 
 | Project | Description | Tech Stack |
